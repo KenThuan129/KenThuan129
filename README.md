@@ -163,8 +163,6 @@ me.sayHi();
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
   CONTRIBUTION MATRIX
-  ![Snake Animation](https://raw.githubusercontent.com/KenThuan129/tcg-logic-battle/output/github-contribution-snake.svg)
-
 </h2>
 
 <div align="center">
@@ -175,19 +173,6 @@ me.sayHi();
   </picture>
 </div>
 
-<!-- TROPHIES -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" />
-  ACHIEVEMENT UNLOCKED
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" />
-</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KenThuan129&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-  </a>
-</p>
-
 <!-- CONNECT SECTION -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30">
@@ -197,11 +182,11 @@ me.sayHi();
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caelus-nguyen)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caelus_nguyen_2003)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR_PORTFOLIO.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ken.stargazer.12092003@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/478482934064480256)
 
 </div>
 
@@ -213,10 +198,13 @@ me.sayHi();
 </h2>
 
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cw6hx6zlylunx5nhja3g4cbdxy&cover_image=true&theme=novatorem&bar_color=00ff88&bar_color_cover=true" alt="Spotify"/>
-  </a>
+  
+  ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cw6hx6zlylunx5nhja3g4cbdxy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)]
+  
 </div>
+
+
+
 
 <!-- PROFILE VIEWS & VISITOR COUNTER -->
 <div align="center">
@@ -251,7 +239,15 @@ me.sayHi();
   
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d9ff,100:0d1117&height=120&section=footer)
+<div align="center">
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d9ff,100:0d1117&height=120&section=footer)
+  
+</div>
+
+
+
+
 
 <!-- SECRET KONAMI CODE EASTER EGG - Check source! -->
 <!-- ↑ ↑ ↓ ↓ ← → ← → B A - You found the easter egg! 🎮 -->
