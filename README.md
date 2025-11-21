@@ -214,7 +214,7 @@ me.sayHi();
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00ff88&bar_color_cover=true" alt="Spotify"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cw6hx6zlylunx5nhja3g4cbdxy&cover_image=true&theme=novatorem&bar_color=00ff88&bar_color_cover=true" alt="Spotify"/>
   </a>
 </div>
 
