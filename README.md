@@ -68,6 +68,7 @@
 </p>
 
 <!-- TECH STACK SECTION -->
+<!-- TECH ARSENAL WITH ANIMATED TYPING -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
   TECH ARSENAL
@@ -78,41 +79,58 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
+<!-- ANIMATED TERMINAL TYPING EFFECT -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=300&color=00FF88&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=250&lines=%24+npm+install+%40ken%2Fskills;%F0%9F%93%A6+Installing+frontend+skills...;%E2%9C%93+React+%E2%9C%93+Next.js+%E2%9C%93+TypeScript+%E2%9C%93+TailwindCSS;%F0%9F%94%A7+Installing+backend+skills...;%E2%9C%93+Node.js+%E2%9C%93+Python+%E2%9C%93+Express+%E2%9C%93+FastAPI;%F0%9F%97%84%EF%B8%8F+Installing+database+skills...;%E2%9C%93+PostgreSQL+%E2%9C%93+MongoDB+%E2%9C%93+Redis;%E2%98%81%EF%B8%8F+Installing+cloud+skills...;%E2%9C%93+AWS+%E2%9C%93+Docker+%E2%9C%93+Kubernetes;%F0%9F%9A%80+All+packages+installed+successfully!" alt="Typing SVG" />
+</div>
+
+<br>
+
+<!-- SKILL BARS WITH ANIMATION EFFECT -->
 <div align="center">
   
-  ### 「 FRONTEND 」
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+```
+⚡ SKILL MATRIX LOADING...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ### 「 BACKEND 」
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  FRONTEND        ████████████████████████████████████████░░░░  90%
+  BACKEND         █████████████████████████████████████░░░░░░░  85%
+  DATABASE        ████████████████████████████████░░░░░░░░░░░░  80%
+  DEVOPS          ██████████████████████████████░░░░░░░░░░░░░░  75%
+  CLOUD           ████████████████████████████░░░░░░░░░░░░░░░░  70%
 
-  ### 「 DATABASE & CLOUD 」
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
-<!-- ANIMATED CODE BLOCK -->
+<!-- ANIMATED TECH ICONS WAVE -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,nodejs,python,go,rust&perline=10&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=express,fastapi,graphql,postgresql,mongodb,redis,aws,docker,kubernetes,git&perline=10&theme=dark" />
+</div>
+
+<br>
+
+<!-- ANIMATED CODE BLOCK - DEVELOPER PROFILE -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
   LIVE SYSTEM LOG
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h2>
 
-<div align="start">
+<!-- TYPING CODE ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&multiline=true&width=650&height=280&lines=%2F%2F+%E2%94%80%E2%94%80%E2%94%80+INITIALIZING+DEVELOPER+PROFILE+%E2%94%80%E2%94%80%E2%94%80;const+developer+%3D+%7B;++name%3A+'Ken+Thuan'%2C;++role%3A+'Full+Stack+Developer'%2C;++location%3A+'The+Cloud+%E2%98%81%EF%B8%8F'%2C;++available_for%3A+'Exciting+Projects'%2C;%7D%3B;console.log(%22Let's+build+something+amazing!%22)%3B;%2F%2F+STATUS%3A+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+ONLINE" alt="Code Typing" />
+</div>
+
+<br>
+
+<!-- STATIC CODE BLOCK FOR DETAILS -->
+<details>
+<summary>📂 <b>Click to Expand Full Developer Config</b></summary>
+<br>
 
 ```javascript
 // ═══════════════════════════════════════════════════════════════
@@ -121,9 +139,9 @@
 
 class Developer {
     constructor() {
-        this.name = "YOUR_NAME";
+        this.name = "Ken Thuan";
         this.role = "Full Stack Developer";
-        this.language_spoken = ["en_US", "code"];
+        this.language_spoken = ["en_US", "vi_VN", "code"];
         this.current_focus = "Building scalable systems";
     }
 
@@ -133,10 +151,11 @@ class Developer {
 
     getSkills() {
         return {
-            languages: ["JavaScript", "TypeScript", "Python", "Go", "Rust"],
-            frameworks: ["React", "Next.js", "Node.js", "Express", "FastAPI"],
-            databases: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
-            devOps: ["Docker", "Kubernetes", "AWS", "CI/CD", "Terraform"],
+            languages:   ["JavaScript", "TypeScript", "Python", "Go"],
+            frontend:    ["React", "Next.js", "Vue.js", "TailwindCSS"],
+            backend:     ["Node.js", "Express", "FastAPI", "GraphQL"],
+            databases:   ["PostgreSQL", "MongoDB", "Redis"],
+            devOps:      ["Docker", "Kubernetes", "AWS", "CI/CD"],
             architecture: ["Microservices", "Event-Driven", "Serverless"]
         };
     }
@@ -157,6 +176,12 @@ me.sayHi();
 // STATUS: ████████████████████ 100% OPERATIONAL
 ```
 
+</details>
+
+<!-- GITHUB STATS CARDS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenThuan129&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KenThuan129&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d9ff&text_color=ffffff" height="200"/>
 </div>
 
 <!-- CONTRIBUTION SNAKE -->
